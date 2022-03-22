@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/text-autocomplete/static/css/main.fd1a0860.css",
-    "main.js": "/text-autocomplete/static/js/main.0f8fd4e2.js",
+    "main.js": "/text-autocomplete/static/js/main.f3a1ed0d.js",
     "static/media/NCTTorin-ItalicHairline.eot": "/text-autocomplete/static/media/NCTTorin-ItalicHairline.00542859b0907dca0cc9.eot",
     "static/media/NCTTorin-ItalicThin.eot": "/text-autocomplete/static/media/NCTTorin-ItalicThin.5e0b5fcce059b0587aa6.eot",
     "static/media/NCTTorin-ItalicHairline.ttf": "/text-autocomplete/static/media/NCTTorin-ItalicHairline.947c83c9c69a71b24c96.ttf",
@@ -68,10 +68,10 @@
     "static/media/NCTTorin-ExtraBold.woff2": "/text-autocomplete/static/media/NCTTorin-ExtraBold.d81a93a656d0d73768af.woff2",
     "index.html": "/text-autocomplete/index.html",
     "main.fd1a0860.css.map": "/text-autocomplete/static/css/main.fd1a0860.css.map",
-    "main.0f8fd4e2.js.map": "/text-autocomplete/static/js/main.0f8fd4e2.js.map"
+    "main.f3a1ed0d.js.map": "/text-autocomplete/static/js/main.f3a1ed0d.js.map"
   },
   "entrypoints": [
     "static/css/main.fd1a0860.css",
-    "static/js/main.0f8fd4e2.js"
+    "static/js/main.f3a1ed0d.js"
   ]
 }
